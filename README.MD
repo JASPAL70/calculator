@@ -36,7 +36,7 @@ JavaScript: For handling logic and interactivity.
 
 1. Clone or Download: Clone this repository or download the files as a ZIP.
 
-git clone <repository-url>
+git clone https://github.com/JASPAL70/calculator
 
 
 2. Open the Project: Navigate to the folder and open the index.html file in your web browser.
